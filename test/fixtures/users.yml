@@ -1,7 +1,7 @@
 Gary:
   first_name: 'Gary'
   last_name: 'Hartman'
-  email: 'gary.hartman@fda.hhs.gov'
+  email: 'gary.hartman@gmail.com'
   profile_name: 'garyhartman'
   encrypted_password: 'password'
   
