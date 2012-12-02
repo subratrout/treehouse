@@ -4,4 +4,12 @@ Gary:
   email: 'gary.hartman@gmail.com'
   profile_name: 'garyhartman'
   encrypted_password: 'password'
+
+Ayusmati:
+  first_name: 'Ayusmati'
+  last_name: 'Pradhan'
+  email: 'ayusmati.pradhan@gmail.com'
+  profile_name: 'ayusmati'
+  encrypted_password: 'asdfdg'
+
   
