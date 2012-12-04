@@ -13,3 +13,9 @@ Ayusmati:
   encrypted_password: 'asdfdg'
 
   
+Mike:
+  first_name: 'Mike'
+  last_name: 'The Frog'
+  email: 'mikethefrog@gmail.com'
+  profile_name: 'mikethefrog'
+  encrypted_password: 'ssdgsdf'
